@@ -1,0 +1,20 @@
+.container-fluid {
+  padding: 7% 7%;
+}
+
+.main-sct {
+  padding-right: 7%;
+}
+
+.main-h1 {
+  font-size: 400%;
+}
+
+.main-p {
+  font-size: 120%;
+}
+
+.main-btn {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}

@@ -39,7 +39,7 @@
 }
 
 #tabs {
-  margin-bottom: 15px;
+  margin-bottom: 50px;
 }
 
 .tab-container {
@@ -50,4 +50,36 @@
   border-bottom-right-radius: 15px;
   padding-top: 20px;
   padding-bottom: 10px;
+}
+
+#dana-punia {
+  margin-bottom: 50px;
+}
+
+.dana-punia-content {
+  padding: 50px;
+}
+
+.total-punia {
+  padding: 10px 25px;
+  border: 2px solid white;
+  display: inline-block;
+}
+
+#donors {
+  margin-bottom: 50px;
+}
+
+.donors-content {
+  display: block;
+  height: 400px;
+}
+
+#footer {
+
+}
+
+.footer-content {
+  padding: 25px;
+  background-color: #99675d;
 }

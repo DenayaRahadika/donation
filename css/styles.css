@@ -1,22 +1,53 @@
-.container-fluid {
-  padding-top: 100px;
-  padding-left: 7%;
-  padding-right: 7%;
+#welcome {
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
-.main-sct {
-  padding-right: 7%;
+.main-message {
+  padding: 50px;
+  background-color: #99675d;
 }
 
 .main-h1 {
-  font-size: 400%;
+  font-size: 150%;
 }
 
-.main-p {
-  font-size: 120%;
+#pura-1 {
+  margin-bottom: 50px;
 }
 
-.main-btn {
-  margin-top: 20px;
-  margin-bottom: 30px;
+.pura {
+
+}
+
+.pura-snapshot {
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+  -webkit-overflow-scrolling: touch;
+}
+
+.pura-snapshot::-webkit-scrollbar {
+  display: none;
+}
+
+.pura-snapshot img {
+  height: 200px;
+  width: 150px;
+  border: 2px solid white;
+  border-radius: 15px;
+}
+
+#tabs {
+  margin-bottom: 15px;
+}
+
+.tab-container {
+  border-left: 1px solid #D8D8D8;
+  border-bottom: 1px solid #D8D8D8;
+  border-right: 1px solid #D8D8D8;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  padding-top: 20px;
+  padding-bottom: 10px;
 }
